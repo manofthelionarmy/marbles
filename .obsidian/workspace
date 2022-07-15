@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "ad61e0bfbe9e2034",
+        "id": "7a22d2e403c87108",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -120,6 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ad61e0bfbe9e2034",
-  "lastOpenFiles": []
+  "active": "7a22d2e403c87108",
+  "lastOpenFiles": [
+    "Programming/gRPC.md",
+    "Programming/Message Types.md",
+    "Defining Protocol Buffer Services.md",
+    "Programming/Protocol Buffers.md",
+    "Programming/Interface Definition Language.md",
+    "Programming/Encoding & Decoding.md",
+    "Programming/Backward and Forward Compatability.md",
+    "Programming/RPC.md",
+    "Programming/Backward and Forward Compatibility, Protobuf Versioning, Serialization.md",
+    "Programming/Binary Format && Binary Format Specification.md"
+  ]
 }
