@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "54106f503b70e5db",
+    "type": "split",
+    "children": [
+      {
+        "id": "988a491ece2656e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a22d2e403c87108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/gRPC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd8bbd2aa2993e9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8b47e319669ecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed054e9812295233",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3738dbc4fe65492c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69d4cb9918bd12df",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "440d7fe67ffec902",
+    "type": "split",
+    "children": [
+      {
+        "id": "8031710fbb76325b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d464140f9d3a5a9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/gRPC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37385920212715ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Programming/gRPC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "455eb676854f03be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "53decae51f5dac5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming/gRPC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7a22d2e403c87108",
+  "lastOpenFiles": [
+    "Programming/Backward and Forward Compatibility, Protobuf Versioning, Serialization.md",
+    "Programming/Backward and Forward Compatability.md",
+    "Programming/gRPC.md",
+    "Programming/Message Types.md",
+    "Programming/Defining Protocol Buffer Services.md",
+    "Programming/Protocol Buffers.md",
+    "Programming/Interface Definition Language.md",
+    "Programming/Encoding & Decoding.md",
+    "Programming/RPC.md",
+    "Programming/Binary Format && Binary Format Specification.md"
+  ]
+}

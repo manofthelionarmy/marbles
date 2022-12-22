@@ -3,6 +3,9 @@
 - Depending on the context: a service can choose to **ignore** it's own field if it's ahead of the client, or, it will set the field value to a specified **default** if it's behind the client's version. 
 - No code changes.
 
+# Related Stuff:
+[[Backward and Forward Compatability]]
+
 # Notes
 Say you have a client with Version 1 and a remote service with Version 2 of our message format. 
 
@@ -12,5 +15,3 @@ Again, if our client has Version 2 and our service has Version 1, our client wil
 
 [Source](https://www.beautifulcode.co/blog/88-backward-and-forward-compatibility-protobuf-versioning-serialization)
 
-# Related Stuff:
-[[Backward and Forward Compatability]]
