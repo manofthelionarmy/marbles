@@ -13,7 +13,67 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/gRPC.md",
+                "file": "Go Buffalo Database Migrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c4d7ab2660cb9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Http Strip Prefix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fdf74a3ffe539684",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is a Persistance Layer, and Why should we have one?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b349af2cb0db5b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go Buffalo Database Migrations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6bbaed4659eb805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Add a Column with Fizz and Soda Cli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c298aee4a2d5ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is a Persistance Layer, and Why should we have one?.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "440d7fe67ffec902",
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/gRPC.md",
+                "file": "Go Buffalo Database Migrations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/gRPC.md",
+                "file": "Go Buffalo Database Migrations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/gRPC.md"
+                "file": "Go Buffalo Database Migrations.md"
               }
             }
           }
@@ -148,15 +209,15 @@
   },
   "active": "7a22d2e403c87108",
   "lastOpenFiles": [
+    "How to Add a Column with Fizz and Soda Cli.md",
+    "Go Buffalo Database Migrations.md",
+    "What is a Persistance Layer, and Why should we have one?.md",
+    "Go Http Strip Prefix.md",
+    "Programming/gRPC.md",
+    "A humble point of view on how to organize persistence in Go.md",
     "Programming/Backward and Forward Compatibility, Protobuf Versioning, Serialization.md",
     "Programming/Backward and Forward Compatability.md",
-    "Programming/gRPC.md",
     "Programming/Message Types.md",
-    "Programming/Defining Protocol Buffer Services.md",
-    "Programming/Protocol Buffers.md",
-    "Programming/Interface Definition Language.md",
-    "Programming/Encoding & Decoding.md",
-    "Programming/RPC.md",
-    "Programming/Binary Format && Binary Format Specification.md"
+    "Programming/Defining Protocol Buffer Services.md"
   ]
 }

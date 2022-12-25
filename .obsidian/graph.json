@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "golang",
+      "color": {
+        "a": 1,
+        "rgb": 5427424
+      }
+    },
+    {
+      "query": "database",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "javascript",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 14.4943820224719,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8220621549603816,
+  "scale": 0.6872757426070689,
   "close": false
 }
