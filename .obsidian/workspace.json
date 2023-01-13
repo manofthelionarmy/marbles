@@ -4,82 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "988a491ece2656e0",
+        "id": "29e5e3a2b2496c00",
         "type": "tabs",
         "children": [
           {
-            "id": "7a22d2e403c87108",
+            "id": "422b9f5bbe98b5d8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb0c873f0c0d9fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Buffalo Database Migrations.md",
+                "file": "Apartments/Apartments 2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7c4d7ab2660cb9c6",
+            "id": "61708391c3e6bc56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Http Strip Prefix.md",
+                "file": "Programming/W3 Shools How To Tutorials.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdf74a3ffe539684",
+            "id": "9829454feb55a5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a Persistance Layer, and Why should we have one?.md",
+                "file": "Programming/Web Design Layout Youtube Vidoes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b349af2cb0db5b16",
+            "id": "5c762df620ab6fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Go Buffalo Database Migrations.md",
+                "file": "Programming/Node Js Event Loop - Node Js Documentation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e6bbaed4659eb805",
+            "id": "41f7e4736060ea9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to Add a Column with Fizz and Soda Cli.md",
+                "file": "Programming/Http Headers - MDN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c298aee4a2d5ee6",
+            "id": "39e7c014c94d1f9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "What is a Persistance Layer, and Why should we have one?.md",
+                "file": "Programming/NodeJs Async Control Flow.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -129,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "440d7fe67ffec902",
@@ -146,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go Buffalo Database Migrations.md",
+                "file": "Programming/NodeJs Async Control Flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go Buffalo Database Migrations.md",
+                "file": "Programming/NodeJs Async Control Flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go Buffalo Database Migrations.md"
+                "file": "Programming/NodeJs Async Control Flow.md"
               }
             }
           }
@@ -207,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a22d2e403c87108",
+  "active": "ed054e9812295233",
   "lastOpenFiles": [
-    "How to Add a Column with Fizz and Soda Cli.md",
-    "Go Buffalo Database Migrations.md",
-    "What is a Persistance Layer, and Why should we have one?.md",
-    "Go Http Strip Prefix.md",
-    "Programming/gRPC.md",
-    "A humble point of view on how to organize persistence in Go.md",
-    "Programming/Backward and Forward Compatibility, Protobuf Versioning, Serialization.md",
-    "Programming/Backward and Forward Compatability.md",
-    "Programming/Message Types.md",
-    "Programming/Defining Protocol Buffer Services.md"
+    "Programming/Http Headers - MDN.md",
+    "Programming/Node Js Event Loop - Node Js Documentation.md",
+    "Programming/Web Design Layout Youtube Vidoes.md",
+    "Programming/W3 Shools How To Tutorials.md",
+    "Apartments/Apartments 2023.md",
+    "Programming/Go Systems Programming - Golang Blog.md",
+    "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
+    "Programming/Authentication - Building Web Applications With Go - Intermediate - Udemy.md",
+    "Programming/Session Storage - MDN.md",
+    "Programming/Javascript & Node.js Testing Best Practices.md"
   ]
 }

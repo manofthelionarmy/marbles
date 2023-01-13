@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "golang",
@@ -39,6 +39,6 @@
   "repelStrength": 14.4943820224719,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6872757426070689,
+  "scale": 0.280713189462548,
   "close": false
 }
