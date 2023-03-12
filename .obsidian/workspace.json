@@ -8,7 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "422b9f5bbe98b5d8",
+            "id": "2eb9b7d6f427398b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Spotify TUI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39856e544e290616",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
+            "id": "116fd77fb7c9531b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27b50b0c2d335139",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Parse git diff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1692678cf6caafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to tokenize git diff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d362286cf6b39f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0e54cee29622375",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,79 +86,43 @@
             }
           },
           {
-            "id": "eb0c873f0c0d9fe0",
+            "id": "eebd6eecefcd5f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apartments/Apartments 2023.md",
+                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "61708391c3e6bc56",
+            "id": "1b3253d83d0a04d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/W3 Shools How To Tutorials.md",
+                "file": "Content Delivery Network - CDN.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9829454feb55a5c4",
+            "id": "1384a33f43cd6269",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Web Design Layout Youtube Vidoes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5c762df620ab6fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Node Js Event Loop - Node Js Documentation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41f7e4736060ea9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Http Headers - MDN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "39e7c014c94d1f9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/NodeJs Async Control Flow.md",
+                "file": "Font - Awesome.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -154,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/NodeJs Async Control Flow.md",
+                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/NodeJs Async Control Flow.md",
+                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/NodeJs Async Control Flow.md"
+                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md"
               }
             }
           }
@@ -215,17 +249,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed054e9812295233",
+  "active": "eebd6eecefcd5f49",
   "lastOpenFiles": [
-    "Programming/Http Headers - MDN.md",
-    "Programming/Node Js Event Loop - Node Js Documentation.md",
-    "Programming/Web Design Layout Youtube Vidoes.md",
-    "Programming/W3 Shools How To Tutorials.md",
-    "Apartments/Apartments 2023.md",
-    "Programming/Go Systems Programming - Golang Blog.md",
+    "Courses/Go Intermediate Web Development - Udemy/Section 2.md",
+    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 1 - Welcome To the Course.md",
+    "Google Fonts.md",
+    "Go Web Intermediate - About.md",
+    "Content Delivery Network - CDN.md",
+    "Font - Awesome.md",
+    "Flexbox.md",
     "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
-    "Programming/Authentication - Building Web Applications With Go - Intermediate - Udemy.md",
-    "Programming/Session Storage - MDN.md",
-    "Programming/Javascript & Node.js Testing Best Practices.md"
+    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly",
+    "Courses/Go Intermediate Web Development - Udemy",
+    "Courses",
+    "Programming/You Don't Know JS - Github.md",
+    "Gorilla Mux Got Archived.md",
+    "How to tokenize git diff.md",
+    "How to Parse git diff.md",
+    "Writing an Interpreter in Go/Ch 1 - Lexer.md",
+    "Writing an Interpreter in Go",
+    "Spotify, Bubble Tea Golang TUI project.md",
+    "Projects/Spotify TUI.md",
+    "PCKE - Oauth.md",
+    "Projects/Refresh Token Error.md",
+    "Programming/Interpreters - Code Docs.md",
+    "Projects/Play Next Song in Album after Current One.md",
+    "Untitled 1.md",
+    "UI Elements.md",
+    "Encryption - AES.md",
+    "Goals/March 1st 2023.md",
+    "Goals",
+    "Nginx Implemnetation as Relying Party - OpenID Connect.md",
+    "Pagination And Filtering - Udemy Go Web Programming.md",
+    "Oauth 2.0 Authorization Flow and OpenID connect.md"
   ]
 }

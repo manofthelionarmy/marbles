@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "golang",
@@ -27,6 +27,41 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "webapplications",
+      "color": {
+        "a": 1,
+        "rgb": 14701173
+      }
+    },
+    {
+      "query": "nodejs",
+      "color": {
+        "a": 1,
+        "rgb": 1413139
+      }
+    },
+    {
+      "query": "networks",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "interpreters",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": true,
@@ -39,6 +74,6 @@
   "repelStrength": 14.4943820224719,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.280713189462548,
+  "scale": 0.28071318946254736,
   "close": false
 }

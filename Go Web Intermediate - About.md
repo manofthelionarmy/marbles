@@ -1,0 +1,1 @@
+- <mark style="background: #FFB86CA6;">TODO</mark>: I need take small notes about the essential topics covered in each module/section in the course. I want to link it to other notes.
