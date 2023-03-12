@@ -18,111 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "39856e544e290616",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
-            "id": "116fd77fb7c9531b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27b50b0c2d335139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to Parse git diff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1692678cf6caafa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to tokenize git diff.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d362286cf6b39f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0e54cee29622375",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "eebd6eecefcd5f49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b3253d83d0a04d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Content Delivery Network - CDN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1384a33f43cd6269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Font - Awesome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
+                "file": "Projects/Spotify TUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md",
+                "file": "Projects/Spotify TUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing an Interpreter in Go/Ch 1 - Lexer.md"
+                "file": "Projects/Spotify TUI.md"
               }
             }
           }
@@ -249,24 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eebd6eecefcd5f49",
+  "active": "2eb9b7d6f427398b",
   "lastOpenFiles": [
-    "Courses/Go Intermediate Web Development - Udemy/Section 2.md",
+    "Writing an Interpreter in Go/Ch 1 - Lexer.md",
+    "How to Parse git diff.md",
+    "How to tokenize git diff.md",
+    "Font - Awesome.md",
+    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 2 - Expanding Cards.md",
     "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 1 - Welcome To the Course.md",
+    "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
+    "Courses/Go Intermediate Web Development - Udemy/Section 2.md",
+    "Properties applied to flex items.md",
+    "Css Transitions.md",
+    "Css Multiple Backgrounds.md",
+    "CORS.md",
+    "Content Delivery Network - CDN.md",
+    "Go Templates.md",
     "Google Fonts.md",
     "Go Web Intermediate - About.md",
-    "Content Delivery Network - CDN.md",
-    "Font - Awesome.md",
     "Flexbox.md",
-    "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
     "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly",
     "Courses/Go Intermediate Web Development - Udemy",
     "Courses",
     "Programming/You Don't Know JS - Github.md",
     "Gorilla Mux Got Archived.md",
-    "How to tokenize git diff.md",
-    "How to Parse git diff.md",
-    "Writing an Interpreter in Go/Ch 1 - Lexer.md",
     "Writing an Interpreter in Go",
     "Spotify, Bubble Tea Golang TUI project.md",
     "Projects/Spotify TUI.md",
@@ -275,12 +178,6 @@
     "Programming/Interpreters - Code Docs.md",
     "Projects/Play Next Song in Album after Current One.md",
     "Untitled 1.md",
-    "UI Elements.md",
-    "Encryption - AES.md",
-    "Goals/March 1st 2023.md",
-    "Goals",
-    "Nginx Implemnetation as Relying Party - OpenID Connect.md",
-    "Pagination And Filtering - Udemy Go Web Programming.md",
-    "Oauth 2.0 Authorization Flow and OpenID connect.md"
+    "Goals"
   ]
 }
