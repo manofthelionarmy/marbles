@@ -13,7 +13,7 @@
 [[Go Templates]]
 [[Content Delivery Network - CDN]]
 [[Golang Flags Package]]
-[[Goland Project Layout]]
+[[Golang Project Layout]]
 [[Go Compiler Directives]]
 [[What is a Layout in Web Design]]
 [[Using the Fetch API - MDN]]

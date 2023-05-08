@@ -81,7 +81,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
+                "file": "Programming/Microservices/Go Microservices - Ch3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8211d27375fad5c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Golang Project Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "440d7fe67ffec902",
@@ -162,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
+                "file": "Programming/Microservices/Go Microservices - Ch3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
+                "file": "Programming/Microservices/Go Microservices - Ch3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md"
+                "file": "Programming/Microservices/Go Microservices - Ch3.md"
               }
             }
           }
@@ -225,9 +238,15 @@
   },
   "active": "7e60c157cf04b747",
   "lastOpenFiles": [
+    "Programming/Microservices/Go Microservices - Ch2.md",
+    "Programming/Microservices/Go Microservices - Ch3.md",
+    "Programming/Microservices/Go Microservices - Ch1.md",
+    "Golang Project Layout.md",
+    "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
+    "Programming/Microservices",
+    "Untitled",
     "Pasted image 20230508130814.png",
     "Courses/Learn TypeScript  - Udemy/Section 9 - Practice Time, Drag & Drop Project.md",
-    "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
     "Self Improve/The Art of Procrastination",
     "Kernel Vs Operating System.md",
     "Pasted image 20230506165933.png",
@@ -253,9 +272,6 @@
     "Courses/Learn TypeScript  - Udemy/My Overview.md",
     "Courses/Postgres - Udemy/Section 2 - Filtering.md",
     "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 7 - Scroll Animation.md",
-    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 2 - Expanding Cards.md",
-    "Courses/Go Intermediate Webdev - Udemy/Section 3.md",
-    "MariaDB.md",
     "Pasted image 20230410192129.png",
     "Pasted image 20230408224142.png",
     "Pasted image 20230408222538.png",
@@ -266,8 +282,6 @@
     "Courses/Learn TypeScript  - Udemy",
     "Templates",
     "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly",
-    "Courses/Go Microservices - Udemy",
-    "Courses",
-    "Writing an Interpreter in Go"
+    "Courses/Go Microservices - Udemy"
   ]
 }
