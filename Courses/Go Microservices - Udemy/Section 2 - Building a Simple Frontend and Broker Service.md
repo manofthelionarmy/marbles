@@ -1,7 +1,13 @@
 # Summary:
+- We unzipped the frontend from a zip file and added it to our project directory.
+- We manually created our broker service and created a docker image.
+- We created a docker-compose.yml file so we can use docker swarm.
+- We unzipped a Makefile from a zip file and added it to our project. It contains commands to spin up our server and containers in a detached mode.
 ---
 # Related Stuff:
 [[Go Templates]]
+[[Routers - MDN]]
+[[Express - Routers Object]]
 [[CORS]]
 #golang 
 #webapplications 
@@ -52,3 +58,4 @@ services:
 	[Replicas](https://docs.docker.com/compose/compose-file/deploy/#replicas)
 	[Mode](https://docs.docker.com/compose/compose-file/deploy/#mode)
 - That's interesting we can have replicated containers? (I may need to watch the docker swam course on udemy for a refresher.) 
+- For our broker service, we created a `helpers.go`  file, which contains useful utilities so we don't have to rewrite code for writing json to the reponse writer, writing an error to the response writer, and read the json from the request body into a value (a struct).

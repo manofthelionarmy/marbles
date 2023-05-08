@@ -10,3 +10,4 @@
 ---
 # Notes:
 > CSS transitions allows you to change property values smoothly, over a given duration.
+- It will listen for the value we are modifying via javascript and then apply the smooth transition/animation.

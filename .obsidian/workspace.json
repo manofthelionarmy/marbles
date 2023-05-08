@@ -8,18 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2eb9b7d6f427398b",
+            "id": "aa9df725747b4ecb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Spotify TUI.md",
+                "file": "Courses/Learn TypeScript  - Udemy/My Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfe5cc60ffa896fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Learn TypeScript  - Udemy/My Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d77b5694fc80f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Learn TypeScript  - Udemy/Section 2 - Typescript Basics & Basic Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed8e11b334468adc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Learn TypeScript  - Udemy/Section 4 - Next Generation Js and Ts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb5f0c3823d6ff2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Courses/Learn TypeScript  - Udemy/Section 9 - Practice Time, Drag & Drop Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2895761ae954d4fa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7e60c157cf04b747",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -49,10 +118,10 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -62,6 +131,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "52b85426b889ef71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -85,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Spotify TUI.md",
+                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Spotify TUI.md",
+                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Spotify TUI.md"
+                "file": "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md"
               }
             }
           }
@@ -146,38 +223,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2eb9b7d6f427398b",
+  "active": "7e60c157cf04b747",
   "lastOpenFiles": [
-    "Writing an Interpreter in Go/Ch 1 - Lexer.md",
-    "How to Parse git diff.md",
-    "How to tokenize git diff.md",
-    "Font - Awesome.md",
+    "Pasted image 20230508130814.png",
+    "Courses/Learn TypeScript  - Udemy/Section 9 - Practice Time, Drag & Drop Project.md",
+    "Self Improve/The Art of Procrastination/TLDR - Art of Procrastination.md",
+    "Self Improve/The Art of Procrastination",
+    "Kernel Vs Operating System.md",
+    "Pasted image 20230506165933.png",
+    "Courses/Postgres - Udemy/Section 3 - Working With Tables.md",
+    "Open Source.md",
+    "Courses/Learn TypeScript  - Udemy/Course Project Setup.md",
+    "Golang Debug Web Application.md",
+    "A Google Employee Finally shares why they fail interview candidates.md",
+    "Docker Delve.md",
+    "Go Tooling Workshop.md",
+    "Courses/Learn TypeScript  - Udemy/Section 2 - Typescript Basics & Basic Types.md",
+    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 11 - Dad Joke.md",
+    "Async Await - Javascript.md",
+    "Promises - Javascript.md",
+    "Programming/NodeJs Async Control Flow.md",
+    "Programming/Setup Eslint and Prettier for React With Vite.md",
+    "Courses/Go Microservices - Udemy/Section 5 - Building A Mail Service.md",
+    "Pasted image 20230418201502.png",
+    "Courses/Postgres - Udemy/Untitled",
+    "Courses/Learn TypeScript  - Udemy/Section 4 - Next Generation Js and Ts.md",
+    "Pasted image 20230417204135.png",
+    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 10 - Sound board.md",
+    "Courses/Learn TypeScript  - Udemy/My Overview.md",
+    "Courses/Postgres - Udemy/Section 2 - Filtering.md",
+    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 7 - Scroll Animation.md",
     "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 2 - Expanding Cards.md",
-    "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly/Ch 1 - Welcome To the Course.md",
-    "Programming/Frontend Masters - Write Professional, Modern Javascript.md",
-    "Courses/Go Intermediate Web Development - Udemy/Section 2.md",
-    "Properties applied to flex items.md",
-    "Css Transitions.md",
-    "Css Multiple Backgrounds.md",
-    "CORS.md",
-    "Content Delivery Network - CDN.md",
-    "Go Templates.md",
-    "Google Fonts.md",
-    "Go Web Intermediate - About.md",
-    "Flexbox.md",
+    "Courses/Go Intermediate Webdev - Udemy/Section 3.md",
+    "MariaDB.md",
+    "Pasted image 20230410192129.png",
+    "Pasted image 20230408224142.png",
+    "Pasted image 20230408222538.png",
+    "Courses/Postgres - Udemy",
+    "Courses/Go Intermediate Webdev - Udemy",
+    "Pasted image 20230402124704.png",
+    "Pasted image 20230402122833.png",
+    "Courses/Learn TypeScript  - Udemy",
+    "Templates",
     "Courses/50 web projects in 50 Days - Brad Traversy, Oreilly",
-    "Courses/Go Intermediate Web Development - Udemy",
+    "Courses/Go Microservices - Udemy",
     "Courses",
-    "Programming/You Don't Know JS - Github.md",
-    "Gorilla Mux Got Archived.md",
-    "Writing an Interpreter in Go",
-    "Spotify, Bubble Tea Golang TUI project.md",
-    "Projects/Spotify TUI.md",
-    "PCKE - Oauth.md",
-    "Projects/Refresh Token Error.md",
-    "Programming/Interpreters - Code Docs.md",
-    "Projects/Play Next Song in Album after Current One.md",
-    "Untitled 1.md",
-    "Goals"
+    "Writing an Interpreter in Go"
   ]
 }

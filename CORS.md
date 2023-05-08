@@ -4,7 +4,7 @@
 # Summary:
 ---
 # Related Stuff:
-[[Section 2]]
+[[Section 2 - Building a Simple Frontend and Broker Service]]
 #golang 
 #nodejs 
 #webapplications 

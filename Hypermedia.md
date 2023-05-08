@@ -34,4 +34,4 @@ Here are some examples:
 -   [JSON LD (JSON for Linking Data)](https://json-ld.org/)
 -   [Collection+JSON](https://github.com/collection-json/spec)
 -   [Siren](https://github.com/kevinswiber/siren)
--   [JSON Hyper Schema](https://tools.ietf.org/html/draft-zyp-json-schema-03#section-6)**
+-   [JSON Hyper Schema](https://tools.ietf.org/html/draft-zyp-json-schema-03#section-6)

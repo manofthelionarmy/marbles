@@ -13,7 +13,7 @@
 - Go's template engine allows us high reusability by nesting templates, defining templates explicitly, or creating templates with default content if one is not explicitly defined.
 ---
 # Related Stuff:
-[[Section 2]]
+[[Section 2 - Building a Simple Frontend and Broker Service]]
 #golang 
 #webapplications 
 #html 
@@ -33,6 +33,7 @@
 - Another action we used is `{{ define }}`. In other words, we can define multiple templates in the same template file. This allows us to have nested templates.
 	- The use case of this is a `layout`. Layouts are fixed patterns in web page design that can be <mark style="background: #FFB86CA6;">reused</mark> for multiple pages.
 	 - In other words, we want to increase reusability of templates.
+	 - We can then use the defined template kind of like a variable within another template via the block action.
 - Another action we used in the course is `{{ block "<name of defined template" }}`. The block action that allows you to define a template and use it at the same time. 
 - The block action effectively <mark style="background: #FFB86CA6;">defines a template</mark>  with a provided name and also places it in the layout. If no template with a matching name is available when the overall template is executed, <mark style="background: #FFB86CA6;">the content template defined by the block will be used instead</mark>.
 	- This gives us the capability to use a default, explict template.
