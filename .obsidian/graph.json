@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -69,9 +69,16 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "os",
+      "color": {
+        "a": 1,
+        "rgb": 8778489
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -81,6 +88,6 @@
   "repelStrength": 12.1875,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.23468707880947132,
+  "scale": 0.21738539353198844,
   "close": false
 }

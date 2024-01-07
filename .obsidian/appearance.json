@@ -1,5 +1,8 @@
 {
   "baseFontSize": 30,
   "cssTheme": "Obsidian Nord",
-  "accentColor": ""
+  "accentColor": "",
+  "monospaceFontFamily": "FiraCode Nerd Font Mono",
+  "textFontFamily": "FiraCode Nerd Font Mono",
+  "interfaceFontFamily": "FiraCode Nerd Font Mono"
 }

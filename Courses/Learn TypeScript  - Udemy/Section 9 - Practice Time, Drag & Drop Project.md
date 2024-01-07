@@ -10,6 +10,7 @@
 [Abstract Classes and Members](https://www.typescriptlang.org/docs/handbook/2/classes.html#abstract-classes-and-members)
 [Extends - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/extends)
 [Super - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/super)
+[Getters/Setters - Typescript Docs](https://www.typescriptlang.org/docs/handbook/2/classes.html#getters--setters)
 # Summary
 
 ----
@@ -108,6 +109,9 @@ private minLength(min:number): ValidateInputFunc {
 		- We also created a `State` class to utilize generics to. We then refactored `ProjectState` to be a subclass of State.
 		- We also refactored `Listeners` and made it accept generics to. 
 		- We had make `listeners` in `State` class be `protected` so that only sub classes can access `listeners` member variable and not publicly accessible outside of the class.
+### 2023-05-11:
+#### 09:28pm:
+- I'm following along, we went over getters. 
 ## Questions:
 - What is html `<template>` tag?
 - Why did we have to do so much boilerplate to render our app?
